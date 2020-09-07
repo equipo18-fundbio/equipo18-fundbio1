@@ -6,18 +6,18 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Grupo 18 - Fundamentos de Biodiseño
 
 # Your name to show in the footer
-author: Some Person
+author: PUCP-UPCH
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Integrantes: "aboutme"
+  Entregables:
+    - Entregable 1: "https://beautifuljekyll.com"
+    - Entregable 2: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
 
 # --- Logo --- #

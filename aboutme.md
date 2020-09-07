@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Nosotros
-subtitle: 
+subtitle: Miembros del equipo
 ---
 
 

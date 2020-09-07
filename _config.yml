@@ -15,10 +15,10 @@ author: PUCP-UPCH
 
 navbar-links:
   Integrantes: "aboutme"
-  Entregables:
+  Entregables Semanales:
     - Entregable 1: "https://beautifuljekyll.com"
     - Entregable 2: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Caso Clínico: "https://deanattali.com"
 
 # --- Logo --- #
 

@@ -50,7 +50,7 @@ Paciente mujer de 30 años de edad, casada, nivel de instrucción primaria compl
 o medicamentos.Fue manejada por un diagnóstico inicial en el hospital por embarazo gemelar con secuencia de perfusión arterial reversa (Twin reversed arterial perfusion sequence, TRAP) d esde la
 semana 28 hasta las 34 semanas, se le realizaron 3 controles y 2 ecografías que confirmaban el [embarazo gemelar TRAP](/prueba.github.io/Documentacion/ConceptosClaves/) sin presencia de patología fetal en feto vivo por ecografías.
 
-####**EXAMEN CLÍNICO**
+#### **EXAMEN CLÍNICO**
 El examen físico de la paciente se hallo un [útero grávido](/prueba.github.io/Documentacion/ConceptosClaves/) con una altura uterina de 32 cm sin otros hallazgos significativos. Los signos vitales estaban dentro de los límites normales. No presentaba contracciones uterinas al momento ni salida de líquido o sangre por vagina.
 
 **Examenes Auxiliares**

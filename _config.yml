@@ -17,8 +17,8 @@ navbar-links:
   Integrantes: "aboutme"
   Entregables Semanales:
     - Entregable 1: "Entregables/Entregable_1.md"
-    - Entregable 2: "https://www.markdowntutorial.com/"
-  Caso Clínico: "https://deanattali.com"
+    - Entregable 2: "Entregables/Entregable_2.md"
+  Caso Clínico: "CasoClinico/CasoClinico.md"
 
 # --- Logo --- #
 

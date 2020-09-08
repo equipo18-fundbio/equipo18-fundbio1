@@ -37,6 +37,11 @@ subtitle: Control Prenatal
 
 **Medicinas:** No toma medicamentos.
 
+#### **CONDICIÓN MÉDICA ACTUAL**
+**Inicio** incidioso.
+
+**Curso** progresivo.
+
 
 Paciente mujer de 30 años de edad, casada, nivel de instrucción primaria completa,ama de casa, sin antecedentes personales ni familiares de importancia, niega alergia a alimentos 
 o medicamentos.Fue manejada por un diagnóstico inicial en el hospital por embarazo gemelar con secuencia de perfusión arterial reversa (Twin reversed arterial perfusion sequence, TRAP) desde la

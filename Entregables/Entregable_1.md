@@ -8,6 +8,7 @@ subtitle: Entregable correspondiente a la semana 2
 ### Roles de Equipo
 
 Los roles de equipo que hemos designado han sido:
+
 **Coordinador General**
 
 **Diseñador de Página Web**

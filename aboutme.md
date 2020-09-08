@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Nosotros
 subtitle: Miembros del equipo
 ---

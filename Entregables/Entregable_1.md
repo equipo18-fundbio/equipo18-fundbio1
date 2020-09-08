@@ -9,7 +9,11 @@ subtitle: Entregable correspondiente a la semana 2
 
 Los roles de equipo que hemos designado han sido:
 **Coordinador General**
+
 **Diseñador de Página Web**
+
 **Programación y Electrónica**
+
 **Diseño y Prototipado**
+
 **Investigador**

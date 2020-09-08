@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Caso Clínico
-subtitle: Control prenatal: embarazo
-gemelar con secuencia perfusión
-arterial reversa
+subtitle: Control prenatal: embarazo gemelar con secuencia perfusión arterial reversa
 ---
 
 ### Autor:Cender Quispe
@@ -11,10 +9,20 @@ arterial reversa
 #### **DATOS PERSONALES**
 
 **Paciente:** Mujer de 30 años
+
+
 **Estado Civil:** Casada
+
+
 **Lugar de nacimiento:** Rosario, Acobamba
+
+
 **Procedente:** Rosario, Acobamba
+
+
 **Ocupación:** Ama de casa y agricultora
+
+
 
 
 **Antecedentes**

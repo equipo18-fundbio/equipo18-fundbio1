@@ -1,10 +1,15 @@
 ---
 layout: page
-title: Nosotros
-subtitle: Miembros del equipo
+title: Entregable 1
+subtitle: Entregable correspondiente a la semana 2
 ---
 
 # Aquí debería ir el Entregable 1
-### My story
+### Roles de Equipo
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Los roles de equipo que hemos designado han sido:
+**Coordinador General**
+**Diseñador de Página Web**
+**Programación y Electrónica**
+**Diseño y Prototipado**
+**Investigador**

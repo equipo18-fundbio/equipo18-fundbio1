@@ -1,21 +1,25 @@
 ---
 layout: page
-title: Nosotros
+title: Grupo 18
 subtitle: Miembros del equipo
 ---
 
 
 
 
-# Integrantes 
+
 
 ## Marcelo Goyzueta
 
+
 ## Ariana Estrada
+
 
 ## Sebastian Carbajal
 
+
 ## Valeria Zavaleta
+
 
 ## Rodrigo Tuesta
 

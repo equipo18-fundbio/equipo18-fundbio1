@@ -1,9 +1,7 @@
----
 
 layout: page
 title: Caso Clínico
-subtitle: Control prenatal: embarazo gemelar con secuencia perfusión arterial reversa
-
+subtitle: Control Prenatal
 ---
 
 

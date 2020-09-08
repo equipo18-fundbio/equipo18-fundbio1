@@ -16,9 +16,9 @@ author: PUCP-UPCH
 navbar-links:
   Integrantes: "aboutme"
   Entregables Semanales:
-    - Entregable 1: "Entregables/Entregable_1.md"
-    - Entregable 2: "Entregables/Entregable_2.md"
-  Caso Clínico: "CasoClinico/CasoClinico.md"
+    - Entregable 1: "Entregables/Entregable_1"
+    - Entregable 2: "Entregables/Entregable_2"
+  Caso Clínico: "CasoClinico/CasoClinico"
 
 # --- Logo --- #
 

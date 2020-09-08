@@ -14,16 +14,20 @@ author: PUCP-UPCH
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  
   Integrantes: "aboutme"
     - Marcelo Goyzueta: "Integrantes/Marcelo"
     - Ariana Estrada: "Integrantes/Ariana"
     - Rodrigo Tuesta: "Integrantes/Rodrigo"
     - Valeria Zavaleta: "Integrantes/Valeria"
     - Sebastian Carbajal: "Integrantes/Sebastian"
+  
   Entregables Semanales:
     - Entregable 1: "Entregables/Entregable_1"
     - Entregable 2: "Entregables/Entregable_2"
+  
   Caso Clínico: "CasoClinico/CasoClinico"
+  
   Conceptos Clave: "Documentación/ConceptosClaves"
 
 # --- Logo --- #

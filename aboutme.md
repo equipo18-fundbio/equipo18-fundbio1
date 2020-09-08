@@ -7,16 +7,16 @@ subtitle: Miembros del equipo
 
 
 
-### Integrantes 
+# Integrantes 
 
-# Marcelo Goyzueta
+## Marcelo Goyzueta
 
-# Ariana Estrada
+## Ariana Estrada
 
-# Sebastian Carbajal
+## Sebastian Carbajal
 
-# Valeria Zavaleta
+## Valeria Zavaleta
 
-# Rodrigo Tuesta
+## Rodrigo Tuesta
 
 

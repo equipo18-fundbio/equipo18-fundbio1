@@ -56,10 +56,10 @@ El examen físico de la paciente se hallo un [útero grávido](/prueba.github.io
 **Examenes Auxiliares:**
 Las pruebas de laboratorio no indican alteraciones, con perfil de coagulación, hepático y renal, hematología y examen de orina normales. [Ecografía](/prueba.github.io/Documentacion/ConceptosClaves/): Una de las ecografías finalespara valoración de bienestar fetal reportaba útero gestante con presencia de embarazo gemelar, placenta posterior, [grado II de maduración](/prueba.github.io/Documentacion/ConceptosClaves/), líquido amniótico con [polihidramnios](/prueba.github.io/Documentacion/ConceptosClaves/), feto 1 de sexo masculino, activo, reactivo, FCF ([Frecuencia Cardiaca Fetal](/prueba.github.io/Documentacion/ConceptosClaves/)) de 138 lpm, cordón con tres vasos, edad gestacional 29.5 semanas; feto 2 amorfo, se identifica imagen de tejido cerebral, óseo, muscular, y algunos rebozos vasculares, no se identifica corazón ni latido cardíaco, sin embargo se logra identificar al uso de Doppler vascularidad de flujo lento y baja resistencia.
 
-![Ecografia1](/assets/img/ecografia1.PNG)
+![Ecografia1](/prueba.github.io/assets/img/ecografia1.PNG)
 
     
-![Ecografia2](/assets/img/ecografia2.PNG)
+![Ecografia2](/prueba.github.io/assets/img/ecografia2.PNG)
 
 
 

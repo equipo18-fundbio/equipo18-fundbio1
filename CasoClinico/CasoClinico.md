@@ -68,7 +68,7 @@ Las pruebas de laboratorio no indican alteraciones, con perfil de coagulación, 
     
 **Tratamiento o recomendación**
 
-    - Continuar con [controles prenatales](/prueba.github.io/Documentacion/ConceptosClaves/).
+    - Continuar con controles prenatales
     - Programación de ecografías cada 14 días.
     
 **Evolución**
@@ -77,7 +77,7 @@ La paciente no continuó con los controles de su embarazo debido a que vive en u
 
 **Reflexiones sobre el caso**
 
-La muerte materna es un evento lamentable y a la vez un indicador importante de desarrollo de un país. La muerte materna se considera cuando la mujer fallece dentro de la gestación, parto o puerperio, muchas de éstas son evitables, si se realiza un adecuado control prenatal. ¿Cuál es el problema principal en esta serie de sucesos desafortunados? ¿Se pudo evitar este final? Un control prenatal continuo, o al menos el monitoreo de algunos indicadores fisiológicos importantes como la FCF podrían ayudar a hacer intervenciones oportunas evitando muertes maternas. En base a lo planteado proponga soluciones tecnológicas innovadoras viables para un monitoreo continuo del bienestar fetal durante el embarazo.
+La muerte materna es un evento lamentable y a la vez un indicador importante de desarrollo de un país. La muerte materna se considera cuando la mujer fallece dentro de la gestación, parto o puerperio, muchas de éstas son evitables, si se realiza un adecuado [control prenatal](/prueba.github.io/Documentacion/ConceptosClaves/). ¿Cuál es el problema principal en esta serie de sucesos desafortunados? ¿Se pudo evitar este final? Un control prenatal continuo, o al menos el monitoreo de algunos indicadores fisiológicos importantes como la FCF podrían ayudar a hacer intervenciones oportunas evitando muertes maternas. En base a lo planteado proponga soluciones tecnológicas innovadoras viables para un monitoreo continuo del bienestar fetal durante el embarazo.
 
 
 

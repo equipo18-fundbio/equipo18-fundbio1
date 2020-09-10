@@ -42,9 +42,9 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "equipo18.fundbio@gmail.com"
-  facebook: deanattali
+#  facebook: deanattali
   github: equipo18-fundbio
-  twitter: daattali
+#  twitter: daattali
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname

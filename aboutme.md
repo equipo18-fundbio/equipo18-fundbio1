@@ -11,6 +11,7 @@ subtitle: Miembros del equipo
 
 ## Marcelo Goyzueta
 ![foto marcelo](/assets/img/foto-marcelo.jpg)
+Mi nombre es Marcelo Goyzueta, vengo de la ciudad Iquitos con la finalidad de adquirir los conocimientos necesarios en Ingenieria Biomédica para generar un cambio significativo en el país, tengo principal interes en dos ramas: "Tejidos y Biomateriales" y "Biomecanica y Rehabilitación". A pesar de todo el esfuerzo que implica el estar estudiando aquí no pienso darme por vencido hasta conseguir mis objetivos.
 
 ## Ariana Estrada
 Mi nombre es Ariana Estrada, estudiante de ingeniería biomédica , con interés en la especialidad de ingeniería de tejidos y biomateriales. Tengo como objetivo principal ser partícipe del cambio en el ámbito de la salud de nuestro país . Con esfuerzo y dedicación tengo por seguro que lograré cumplir mis metas.

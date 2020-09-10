@@ -22,7 +22,7 @@ Mi nombre es Ariana Estrada, estudiante de ingeniería biomédica , con interés
 ## Sebastian Carbajal
 Me llamo Sebastián Carbajal. La especialidad de mi interés es la rama de Ingeniería de Tejidos y Biomateriales. Mi principal objetivo como futuro ingeniero biomédico es aplicar mis conocimientos en desarrollar soluciones para personas ciegas y enfermedades neurodegenerativas como el Alzheimer. 
 
-![foto sebastian](/assets/img/foto-sebastian.jpg)
+![foto sebastian](https://github.com/equipo18-fundbio/equipo18-fundbio/blob/master/assets/img/foto-sebastian.jpg?raw=true)
 
 ## Valeria Zavaleta
 Mi nombre es Valeria Zavaleta y tengo especiál interés por la Biomecánica, me gustaría poder participar en proyectos que implementen la tecnología como respuesta directa a problemáticas relacionadas al área de salud para así poder elaborar soluciones accesibles y, sobre todo, eficientes con la finalidad de brindar la mejor calidad de vida posible a todos los sectores de la población.
@@ -32,4 +32,4 @@ Mi nombre es Valeria Zavaleta y tengo especiál interés por la Biomecánica, me
 ## Rodrigo Tuesta
 Me llamo Rodrigo Tuesta.Actualmente me encuentro cursando mi segundo año de la carrera de Ingenieria Biomedica.Mis temas de interes son la neuroingenieria y la robotica aplicada a los sistemas neuronales asi mismo como la neurociencia como un conjunto. Mi gran meta es poder aportar al desarollo de la tecnologia y ciencia en el Peru llevandolo a un pais competitivo. 
 
-![foto rodrigo](/assets/img/foto-rodrigo.jpg)
+![foto rodrigo](https://github.com/equipo18-fundbio/equipo18-fundbio/blob/master/assets/img/foto-rodrigo.jpg?raw=true)

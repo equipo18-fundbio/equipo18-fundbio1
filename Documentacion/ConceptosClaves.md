@@ -34,4 +34,7 @@ El polihidramnios es la acumulación excesiva de líquido amniótico, que es el 
 La frecuencia cardíaca fetal o fetocardia de feto humano son los latidos del corazón en un minuto. El corazón fetal aparece a la semana 6 y ya se puede detectar su latido mediante una ecografía Doppler gestacional a partir de la décima semana. La frecuencia cardíaca fetal basal oscila entre 120 y 160 latidos por minuto, se habla de taquicardia fetal cuando ésta pasa de 160 y de bradicardia fetal cuando la frecuencia está por debajo de 120 latidos por minuto.
 
 
-#### Álgica 
+#### Álgico 
+Con frecuencia se escucha en medicina el vocablo álgido pretendiendo referirse al aspecto adolorido o quejumbroso de un paciente. No obstante, ese es un
+uso equivocado para este término ya que existe un adjetivo específico para definir
+esa situación: álgico.

@@ -8,4 +8,4 @@ share-img: /assets/img/imagen biomedica.png
 tags: [Nosotros]
 ---
 
-Somos estudiantes del Programa de Ingenieria Biomédica PUCP-UPCH 
+Somos estudiantes de la carrera de Ingenieria Biomédica PUCP-UPCH 

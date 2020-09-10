@@ -23,6 +23,8 @@ Me llamo Sebastián Carbajal. La especialidad de mi interés es la rama de Ingen
 ![foto sebastian](/assets/img/foto-sebastian.jpg)
 
 ## Valeria Zavaleta
+Mi nombre es Valeria Zavaleta y tengo especiál interés por la Biomecánica, me gustaría poder participar en proyectos que implementen la tecnología como respuesta directa a problemáticas relacionadas al área de salud para así poder elaborar soluciones accesibles y, sobre todo, eficientes con la única finalidad de brindar la mejor calidad de vida posible a todos los sectores de la población.
+
 ![foto valeria](/assets/img/foto-valeria.jpg)
 
 ## Rodrigo Tuesta

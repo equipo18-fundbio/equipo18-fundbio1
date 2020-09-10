@@ -35,8 +35,7 @@ La frecuencia cardíaca fetal o fetocardia de feto humano es la cantidad de lati
 
 
 #### Álgico 
-Con frecuencia se escucha en medicina el vocablo álgido pretendiendo referirse al aspecto adolorido o quejumbroso de un paciente. No obstante, ese es un
-uso equivocado para este término ya que existe un adjetivo específico para definir esa situación: álgico.
+Es el término médico empleado para referirse al aspecto adolorido o quejumbroso de un paciente.
 
 
 #### Borramiento y dilatación

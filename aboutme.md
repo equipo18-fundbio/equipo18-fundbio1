@@ -19,6 +19,7 @@ Mi nombre es Ariana Estrada, estudiante de ingeniería biomédica , con interés
 
 ## Sebastian Carbajal
 Me llamo Sebastián Carbajal. La especialidad de mi interés es la rama de Ingeniería de Tejidos y Biomateriales. Mi principal objetivo como futuro ingeniero biomédico es aplicar mis conocimientos en desarrollar soluciones para personas ciegas y enfermedades neurodegenerativas como el Alzheimer. 
+
 ![foto sebastian](/assets/img/foto-sebastian.jpg)
 
 ## Valeria Zavaleta

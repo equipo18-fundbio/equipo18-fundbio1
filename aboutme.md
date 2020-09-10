@@ -26,6 +26,6 @@ Me llamo Sebastián Carbajal. La especialidad de mi interés es la rama de Ingen
 ![foto valeria](/assets/img/foto-valeria.jpg)
 
 ## Rodrigo Tuesta
-![foto rodrigo](/assets/img/foto-rodrigo.jpg)
 Me llamo Rodrigo Tuesta.Actualmente me encuentro cursando mi segundo año de la carrera de Ingenieria Biomedica.Mis temas de interes son la neuroingenieria y la robotica aplicada a los sistemas neuronales asi mismo como la neurociencia como un conjunto. Mi gran meta es poder aportar al desarollo de la tecnologia y ciencia en el Peru llevandolo a un pais competitivo. 
 
+![foto rodrigo](/assets/img/foto-rodrigo.jpg)

@@ -10,7 +10,7 @@ subtitle: Miembros del equipo
 
 
 ## Marcelo Goyzueta
-Mi nombre es Marcelo Goyzueta, vengo de la ciudad Iquitos con la finalidad de adquirir los conocimientos necesarios en Ingenieria Biomédica para generar un cambio significativo en el país, tengo principal interes en dos ramas: "Tejidos y Biomateriales" y "Biomecanica y Rehabilitación". A pesar de todo el esfuerzo que implica el estar estudiando aquí no pienso darme por vencido hasta conseguir mis objetivos.
+Mi nombre es Marcelo Goyzueta, vengo de la ciudad Iquitos con la finalidad de adquirir los conocimientos necesarios en Ingenieria Biomédica para generar un cambio significativo en el país, tengo principal interés en dos ramas: "Tejidos y Biomateriales" y "Biomecanica y Rehabilitación". A pesar de todo el esfuerzo que implica el estar estudiando aquí no pienso darme por vencido hasta conseguir mis objetivos.
 
 ![foto marcelo](https://github.com/equipo18-fundbio/equipo18-fundbio/blob/master/assets/img/foto-marcelo.jpg?raw=true)
 

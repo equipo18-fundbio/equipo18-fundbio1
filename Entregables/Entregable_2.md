@@ -76,16 +76,22 @@ Existen diversos factores que nos podrían dar indicios de el por qué las perso
 El costo social de la mortalidad materna se expresa en la consecuente desorganización familiar. Los niños ven incrementarse el riesgo de abandono, con sus consecuencias de desnutrición y deficiente educación. Los niños de un hogar que pierde a su madre se profundizan en el círculo vicioso de la pobreza, ya que la mortalidad materna afecta principalmente a mujeres de bajos recursos, quienes han sido excluidas de los servicios tanto de educación como salud, quienes carecen de la posibilidad de tomar una decisión aún en el seno de sus propias familias. Además, se ha descrito que solo uno de cada diez recién nacidos que perdieron a su madre alcanza a cumplir su primer año de vida. Además, en por lo menos la cuarta parte de hogares con varones como jefes de familia , las mujeres aportan con más de la mitad de los ingresos, por lo cual su muerte implicaría un desbalance económica significativo para toda la familia, profundizando así la dificultad de un desarrollo adecuado de la misma[8].
 
 
-## Diagramas de apoyo para la definición del problema
-### Mapa de Empatía
+## Definición del problema.
+### Diagramas de apoyo para la definición del problema
+
+#### Mapa de Empatía
 
 ![MapaEmpatia](https://github.com/equipo18-fundbio/equipo18-fundbio/blob/master/assets/img/Mapa%20de%20Empat%C3%ADa.png?raw=true)
 
-### Mapa de Viaje del Usuario
+#### Mapa de Viaje del Usuario
 ![MapaViaje](https://github.com/equipo18-fundbio/equipo18-fundbio/blob/master/assets/img/Mapa%20de%20Viaje%20del%20Usuario.png?raw=true)
 
-### Mapa Causa-Efecto
+#### Mapa Causa-Efecto
 ![MapaPescadito](https://github.com/equipo18-fundbio/equipo18-fundbio/blob/master/assets/img/Mapa%20Pescadito.png?raw=true)
+
+### Definición
+
+Tras analizar los diagramas y el contexto hemos podido identificar que el principal problema es **la falta de un control prenatal continúo debido a diversos factores que impiden que este se lleve a cabo de acuerdo a lo esperado**; entre ellos estan las distancias que se deben recorrer para llegar al centro de salud, falta de interés de la madre debido a que le resta importancia a estos controles antes mencionados, cansancio asociado al embarazo, poca disponibilidad de la madre para asistir, entre otros motivos. Esto lleva a que un embarazo que pudo concluir de la mejor forma posible no sea capaz de tomar acciones a tiempo si es que se presentará una complicación o se complicará el cuadro de un diagnostico prexistente.
 
 
 ## Bibliografía

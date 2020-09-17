@@ -54,6 +54,7 @@ Además, en un transcurso de 26 años (1991- 2016), en el área rural, el porcen
 Tomando en cuenta los datos obtenidos de la vigilancia epidemiológica de la mortalidad materna del 2000 al 2012 y del Estudio de la Mortalidad Materna 2002 - 2011 realizado por la Dirección General de Epidemiología y el Fondo de Población de Naciones Unidas, que la mortalidad materna tuvo mayor repercusión en regiones de la sierra y selva, además de zonas rurales, y afectó en su mayoría a mujeres del nivel socioeconómico más pobre o quintil de pobreza I [5].
 
 ![Imagen4](https://github.com/equipo18-fundbio/equipo18-fundbio/blob/master/assets/img/Imagen_4_2.png?raw=true)
+
 ![Imagen9](https://github.com/equipo18-fundbio/equipo18-fundbio/blob/master/assets/img/Imagen_9_2.png?raw=true)
 
 Según encuestas realizadas en los años 1991-1992, 1996, 2011 y 2016, se puede identificar una tendencia al aumento progresivo de partos atendidos por personal calificado en diversas zonas del Perú. Siendo las regiones sierra (34,2% a 91,0%) y selva (36,6% a 83,2%) las más beneficiadas entre los años 1996 y 2018.

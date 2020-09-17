@@ -36,3 +36,5 @@ Encarga de la creación de los diseños y prototipos de las futuras posibles sol
 [Rodrigo Tuesta](https://equipo18-fundbio.github.io/equipo18-fundbio/aboutme/)
 
 Encargado de la documentación del grupo, con su aporte podremos conseguir los conceptos y conocimientos necesarios para afrontar el caso clínico, comprender el problema a fondo y de esa forma encontrar la mejor solución posible.
+
+[Acta 1](https://equipo18-fundbio.github.io/equipo18-fundbio/documentacion/acta1/)

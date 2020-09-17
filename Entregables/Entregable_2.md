@@ -88,3 +88,26 @@ El costo social de la mortalidad materna se expresa en la consecuente desorganiz
 ![MapaPescadito](https://github.com/equipo18-fundbio/equipo18-fundbio/blob/master/assets/img/Mapa%20Pescadito.png?raw=true)
 
 
+## Bibliografía
+
+1. United Nations, Department of Economics and Social Development, Population Division. World Population, 1992. New York: United Nations; 1992.
+
+2. Perú, Instituto Nacional de Estadística e Informática. Encuesta Demográfica y de Salud Familiar 2012 . Lima: INEI; 2012.
+
+3. UNFPA, Fondo de Población de las Naciones Unidas, Perú. Regiones con altas tasas de mortalidad materna enfrentan serios desafíos para asegurar la calidad en la atención 
+de la salud materna.Lima:2017.
+
+4. Perú, Ministerio de Salud. Plan Estratégico Nacional para la Reducción de la Mortalidad Materna y Perinatal 2009-2015 . Lima: MINSA; 2009.
+
+5. Perú, Ministerio de Salud, Dirección General de Epidemiología; United Nations Population Fund. La mortalidad materna en el Perú 2002 - 2011 . Lima: MINSA; 2013.
+
+
+6. OPS/OMS. Salud en Sud América. Edición de 2012. Panorama de la situación de salud y de las políticas y sistemas de salud. 
+
+
+7. UNFPA, Fondo de Población de las Naciones Unidas. X CONGRESO INTERNACIONAL SALUD Y DESARROLLO DE ADOLESCENTES Y JÓVENES . MORTALIDAD MATERNA EN ADOLESCENTE. Dra. Gracia Subiria en colaboración Dra. Raquel Hurtado. Edición 2015.
+
+8. Instituto Nacional de Estadística e Informática.Encuesta Demográfica y de salud familiar 2000.Lima:INEI 2001.
+
+
+

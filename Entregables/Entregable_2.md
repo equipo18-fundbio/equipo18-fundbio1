@@ -76,7 +76,7 @@ Existen diversos factores que nos podrían dar indicios de el por qué las perso
 El costo social de la mortalidad materna se expresa en la consecuente desorganización familiar. Los niños ven incrementarse el riesgo de abandono, con sus consecuencias de desnutrición y deficiente educación. Los niños de un hogar que pierde a su madre se profundizan en el círculo vicioso de la pobreza, ya que la mortalidad materna afecta principalmente a mujeres de bajos recursos, quienes han sido excluidas de los servicios tanto de educación como salud, quienes carecen de la posibilidad de tomar una decisión aún en el seno de sus propias familias. Además, se ha descrito que solo uno de cada diez recién nacidos que perdieron a su madre alcanza a cumplir su primer año de vida. Además, en por lo menos la cuarta parte de hogares con varones como jefes de familia , las mujeres aportan con más de la mitad de los ingresos, por lo cual su muerte implicaría un desbalance económica significativo para toda la familia, profundizando así la dificultad de un desarrollo adecuado de la misma[8].
 
 
-## Definición del Problema
+## Diagramas de apoyo para la definición del problema
 ### Mapa de Empatía
 
 ![MapaEmpatia](https://github.com/equipo18-fundbio/equipo18-fundbio/blob/master/assets/img/Mapa%20de%20Empat%C3%ADa.png?raw=true)

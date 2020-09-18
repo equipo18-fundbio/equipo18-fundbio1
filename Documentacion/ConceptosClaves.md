@@ -59,7 +59,7 @@ El borramiento toma lugar en el momento en que la cabeza del bebé desciende en 
 
 [8]A. Pinzón, Bogotá, and D. Colombia, “lApsus Medicus ¿ ÁLGIDO o ÁLGICO? Algidus or algic?,” ActA MédicA coloMbiAnA, vol. 39, 2014 [Online]. Available: http://www.scielo.org.co/pdf/amc/v39n2/v39n2a23.pdf. [Accessed: 10-Sep-2020]
 
-[9]“Borramiento y dilatación del cuello uterino | Cigna,” Cigna.com, 2019. [Online]. Available: https://www.cigna.com/individuals-families/health-wellness/hw-en-espanol/temas-de-salud/borramiento-y-dilatacion-del-cuello-uterino-zx3441. [Accessed: 10-Sep-2020]
+[9]“Borramiento y dilatación del cuello uterino, Cigna,” Cigna.com, 2019. [Online]. Available: https://www.cigna.com/individuals-families/health-wellness/hw-en-espanol/temas-de-salud/borramiento-y-dilatacion-del-cuello-uterino-zx3441. [Accessed: 10-Sep-2020]
 
 
 

@@ -43,17 +43,20 @@ El borramiento toma lugar en el momento en que la cabeza del bebé desciende en 
 
 #### Referencias
 
+[1]Huerta-Sáenz, I., 2012. Secuencia De Perfusión Arterial Reversa En Embarazo Gemelar (TRAP) Monocoriónico Con Feto Acárdico. [online] Sisbib.unmsm.edu.pe. Available at: <https://sisbib.unmsm.edu.pe/bvrevistas/ginecologia/vol59_n3/pdf/a10v59n3.pdf> [Accessed 10 September 2020].
 
+[2]Aguilera, S. and Soothill, P., 2014. Control Prenatal. Revista Médica Clínica Las Condes, 25(6), pp.880-886.
 
-[3] Definicion utero gravido [Internet]. Enciclopedias Salud-Definiciones.  [citado 10 septiembre 2020]. Disponible en: https://www.enciclopediasalud.com/definiciones/utero-gravido
+[3] Classe Software Empresarial, “Enciclopedia Salud: Definición de Útero grávido,” Enciclopediasalud.com, 2016. [Online]. Available: https://www.enciclopediasalud.com/definiciones/utero-gravido. [Accessed: 10-Sep-2020]
 
-[4]Ecografia [Internet].Medline Plus. [citado 10 septiembre 2020].Disponible en https://medlineplus.gov/spanish/pruebas-de-laboratorio/ecografia/.
+[4]“Ecografía,” Medlineplus.gov, 2019. [Online]. Available: https://medlineplus.gov/spanish/pruebas-de-laboratorio/ecografia/. [Accessed: 10-Sep-2020]
 
-[5]Los grados de madurez de la placenta[Internet].Bebés y mas [citado 10 septiembre 2020].Disponible en: https://www.bebesymas.com/embarazo/los-grados-de-madurez-de-la-placenta
+[5]E. Paris, “Los grados de madurez de la placenta,” Bebesymas.com, 25-Mar-2010. [Online]. Available: https://www.bebesymas.com/embarazo/los-grados-de-madurez-de-la-placenta. [Accessed: 10-Sep-2020]
 
-[6]Polihidramnios[Internet].Mayo Clinic [citado 10 septiembre 2020].Disponible en: https://www.mayoclinic.org/es-es/diseases-conditions/polyhydramnios/symptoms-causes/syc-20368493
+[6]“Polihidramnios - Síntomas y causas - Mayo Clinic,” Mayoclinic.org, 2018. [Online]. Available: https://www.mayoclinic.org/es-es/diseases-conditions/polyhydramnios/symptoms-causes/syc-20368493. [Accessed: 10-Sep-2020]
 
-[7]Control externo e interno de la frecuencia cardiaca fetal [Internet].Stanford Children´s Health
-[citado 10 septiembre 2020].Disponible en: https://www.stanfordchildrens.org/es/topic/default?id=fetalheartmonitoring-92-P09290
+[7]“Control externo e interno de la frecuencia cardíaca fetal,” Ucsd.edu, 2016. [Online]. Available: https://myhealth.ucsd.edu/Spanish/RelatedItems/92,P09290. [Accessed: 10-Sep-2020]
 
+[8]A. Pinzón, Bogotá, and D. Colombia, “lApsus Medicus ¿ ÁLGIDO o ÁLGICO? Algidus or algic?,” ActA MédicA coloMbiAnA, vol. 39, 2014 [Online]. Available: http://www.scielo.org.co/pdf/amc/v39n2/v39n2a23.pdf. [Accessed: 10-Sep-2020]
 
+[9]Romito, K., 2020. Borramiento Y Dilatación Del Cuello Uterino | Cigna. [online] Cigna.com. Available at: <https://www.cigna.com/individuals-families/health-wellness/hw-en-espanol/temas-de-salud/borramiento-y-dilatacion-del-cuello-uterino-zx3441> [Accessed 10 September 2020].

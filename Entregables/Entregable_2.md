@@ -17,8 +17,7 @@ Con la finalidad de lograr la reducción de la tasa de mortalidad materna, diver
 
 
 
-## Situación actual en el Perú y en Latinoamérica
-
+## Contexto social en Perú y Latinoamérica.
 
 En lo que a Perú se refiere, aproximadamente diariamente mueren 2 mujeres debido a las razones previamente mencionadas; sin embargo, la situación es indudablemente influenciada debido a las barreras que se imponen al momento de intentar acceder al sistema de salud, esto se ve reflejado en las cifras, ya que de todos los peruanos, sólo el 12% accede a los servicios privados y 3% es atendido por la Sanidad de las Fuerzas Armadas (FFAA) y de la Policía Nacional del Perú (PNP) [2].
 
@@ -51,12 +50,6 @@ Además, en un transcurso de 26 años (1991- 2016), en el área rural, el porcen
 
 ![Imagen3](https://github.com/equipo18-fundbio/equipo18-fundbio/blob/master/assets/img/Imagen_3_2.png?raw=true)
 
-Tomando en cuenta los datos obtenidos de la vigilancia epidemiológica de la mortalidad materna del 2000 al 2012 y del Estudio de la Mortalidad Materna 2002 - 2011 realizado por la Dirección General de Epidemiología y el Fondo de Población de Naciones Unidas, que la mortalidad materna tuvo mayor repercusión en regiones de la sierra y selva, además de zonas rurales, y afectó en su mayoría a mujeres del nivel socioeconómico más pobre o quintil de pobreza I [5].
-
-![Imagen4](https://github.com/equipo18-fundbio/equipo18-fundbio/blob/master/assets/img/Imagen_4_2.png?raw=true)
-
-![Imagen9](https://github.com/equipo18-fundbio/equipo18-fundbio/blob/master/assets/img/Imagen_9_2.png?raw=true)
-
 Según encuestas realizadas en los años 1991-1992, 1996, 2011 y 2016, se puede identificar una tendencia al aumento progresivo de partos atendidos por personal calificado en diversas zonas del Perú. Siendo las regiones sierra (34,2% a 91,0%) y selva (36,6% a 83,2%) las más beneficiadas entre los años 1996 y 2018.
 
 ![Imagen5](https://github.com/equipo18-fundbio/equipo18-fundbio/blob/master/assets/img/Imagen_5_2.png?raw=true)
@@ -74,6 +67,14 @@ Existen diversos factores que nos podrían dar indicios de el por qué las perso
 ![Imagen8](https://github.com/equipo18-fundbio/equipo18-fundbio/blob/master/assets/img/Imagen_8_2.png?raw=true)
 
 El costo social de la mortalidad materna se expresa en la consecuente desorganización familiar. Los niños ven incrementarse el riesgo de abandono, con sus consecuencias de desnutrición y deficiente educación. Los niños de un hogar que pierde a su madre se profundizan en el círculo vicioso de la pobreza, ya que la mortalidad materna afecta principalmente a mujeres de bajos recursos, quienes han sido excluidas de los servicios tanto de educación como salud, quienes carecen de la posibilidad de tomar una decisión aún en el seno de sus propias familias. Además, se ha descrito que solo uno de cada diez recién nacidos que perdieron a su madre alcanza a cumplir su primer año de vida. Además, en por lo menos la cuarta parte de hogares con varones como jefes de familia , las mujeres aportan con más de la mitad de los ingresos, por lo cual su muerte implicaría un desbalance económica significativo para toda la familia, profundizando así la dificultad de un desarrollo adecuado de la misma[8].
+
+## Contexto económico en el Perú
+
+Tomando en cuenta los datos obtenidos de la vigilancia epidemiológica de la mortalidad materna del 2000 al 2012 y del Estudio de la Mortalidad Materna 2002 - 2011 realizado por la Dirección General de Epidemiología y el Fondo de Población de Naciones Unidas, que la mortalidad materna tuvo mayor repercusión en regiones de la sierra y selva, además de zonas rurales, y afectó en su mayoría a mujeres del nivel socioeconómico más pobre o quintil de pobreza I [5].
+
+![Imagen4](https://github.com/equipo18-fundbio/equipo18-fundbio/blob/master/assets/img/Imagen_4_2.png?raw=true)
+
+![Imagen9](https://github.com/equipo18-fundbio/equipo18-fundbio/blob/master/assets/img/Imagen_9_2.png?raw=true)
 
 
 ## Definición del problema.

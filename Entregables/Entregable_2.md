@@ -4,7 +4,7 @@ title: Entregable 2
 subtitle: Entregable correspondiente a la semana 3
 ---
 
-# Contexto Social, Económico y Definición del Problema.
+# Contexto Social, Económico y Definición del Problema
 ---
 
 
@@ -17,7 +17,7 @@ Con la finalidad de lograr la reducción de la tasa de mortalidad materna, diver
 
 
 
-## Contexto social en Perú y Latinoamérica.
+## Contexto social en Perú y Latinoamérica
 
 En lo que a Perú se refiere, aproximadamente diariamente mueren 2 mujeres debido a las razones previamente mencionadas; sin embargo, la situación es indudablemente influenciada debido a las barreras que se imponen al momento de intentar acceder al sistema de salud, esto se ve reflejado en las cifras, ya que de todos los peruanos, sólo el 12% accede a los servicios privados y 3% es atendido por la Sanidad de las Fuerzas Armadas (FFAA) y de la Policía Nacional del Perú (PNP) [2].
 
@@ -77,7 +77,7 @@ Tomando en cuenta los datos obtenidos de la vigilancia epidemiológica de la mor
 ![Imagen9](https://github.com/equipo18-fundbio/equipo18-fundbio/blob/master/assets/img/Imagen_9_2.png?raw=true)
 
 
-## Definición del problema.
+## Definición del problema
 ### Diagramas de apoyo para la definición del problema
 
 #### Mapa de Empatía
@@ -112,9 +112,4 @@ de la salud materna.Lima:2017.
 6. OPS/OMS. Salud en Sud América. Edición de 2012. Panorama de la situación de salud y de las políticas y sistemas de salud. 
 
 
-7. UNFPA, Fondo de Población de las Naciones Unidas. X CONGRESO INTERNACIONAL SALUD Y DESARROLLO DE ADOLESCENTES Y JÓVENES . MORTALIDAD MATERNA EN ADOLESCENTE. Dra. Gracia Subiria en colaboración Dra. Raquel Hurtado. Edición 2015.
-
-8. Instituto Nacional de Estadística e Informática.Encuesta Demográfica y de salud familiar 2000.Lima:INEI 2001.
-
-
-
+7. UNFPA, Fondo de Población de las Naciones Unidas. X CONGRESO INTERNACIONAL SALUD Y DESARROLLO DE ADOLESCE

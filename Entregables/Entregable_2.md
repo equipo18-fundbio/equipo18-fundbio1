@@ -76,6 +76,12 @@ Tomando en cuenta los datos obtenidos de la vigilancia epidemiológica de la mor
 
 ![Imagen9](https://github.com/equipo18-fundbio/equipo18-fundbio/blob/master/assets/img/Imagen_9_2.png?raw=true)
 
+A través del Boletín Presupuestario de Programas de Salud del MINSA al primer semestre del 2019, se puede observar que, tras un aumento progresivo del presupuesto anual, el número de gestantes que han recibido de 6 a más controles prenatales ha ido aumentando también.
+
+![Imagen10](https://github.com/equipo18-fundbio/equipo18-fundbio/blob/master/assets/img/Captura.PNG?raw=true)
+
+Además, cabe mencionar que los costos que asume el sistema de Salud relacionado a un parto natural son de aproximadamente 300 dólares, mientras que un parto por cesárea puede llegar a alcanzar costos de hasta 750 dólares.
+
 
 ## Definición del problema
 ### Diagramas de apoyo para la definición del problema
